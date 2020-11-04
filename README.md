@@ -8,6 +8,7 @@ You only need to write some feature files using the **Gherkin** syntax and plan 
 Enjoy It!
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dcfecfad3e0f42cfb9053c1a16a57c17)](https://app.codacy.com/gh/andresakai/walnutjs?utm_source=github.com&utm_medium=referral&utm_content=andresakai/walnutjs&utm_campaign=Badge_Grade)
 [![https://nodei.co/npm/walnutjs.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/walnutjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/walnutjs)
 
 [![CircleCI](https://circleci.com/gh/mmendesas/walnutjs.svg?style=svg)](https://circleci.com/gh/mmendesas/walnutjs)
